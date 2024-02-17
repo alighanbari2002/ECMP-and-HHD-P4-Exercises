@@ -1,0 +1,3 @@
+[submodule "Resources/ETH p4-learning"]
+	path = Resources/ETH p4-learning
+	url = https://github.com/nsg-ethz/p4-learning
