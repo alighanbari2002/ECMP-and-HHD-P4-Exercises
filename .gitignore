@@ -1,0 +1,15 @@
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Ignore dependencies
+requirements.txt
+venv/
+
+# Ignore compiled files
+*.o
+*.pyc
+*.p4i
+*.p4rt
